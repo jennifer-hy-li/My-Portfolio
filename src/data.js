@@ -1,52 +1,50 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Airport Tower Simulation",
+    subtitle: "Java",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+    image: "./Project1.png",
+    link: "https://github.com/jennifer-hy-li/Airport-Simulation",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Tetris Look-a-like",
+    subtitle: "Processing",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+    image: "./Project2.png",
+    link: "https://github.com/jennifer-hy-li/Connect-Square",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Willy Wonka Login",
+    subtitle: "Java",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    image: "./Project3.png",
+    link: "https://github.com/jennifer-hy-li/Secure-Login-GUI",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Over-Engineered Recycling Robot :D",
+    subtitle: "Python, Raspberry Pi, Virtual Environment",
     description:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
     image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+    link: "",
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
+      "talk about some some",
+    name: "something",
     company: "Technical Interests",
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Hobbies/Interests",
+      "poo poo pee pee",
+    name: "something",
+    company: "Non-Tech Interests",
   },
 ];
 
